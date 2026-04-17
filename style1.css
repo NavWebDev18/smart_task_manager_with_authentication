@@ -2,13 +2,13 @@
 
 
 .login-bg-container{
-    background-image: url(./images/login1.jpg);
+    background-image: url(/images/login1.jpg);
     background-size: cover;
     min-height: 100vh;
 }
 
 .register-bg-container {
-    background-image: url(./images/register.jpg);
+    background-image: url(/images/register.jpg);
     background-size: cover;
     min-height: 100vh;
 }
